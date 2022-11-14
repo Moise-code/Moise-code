@@ -1,4 +1,4 @@
-<p align="center"><a href="https://moise-code.github.io/Portfolio-website/"><img width="80%" alt="Hello, I'm Byiringiro Moise. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://moise-code.github.io/Portfolio-website/">Hello There My name is Byiringiro Moise</p>
 
 <br />
 
