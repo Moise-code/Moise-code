@@ -1,4 +1,4 @@
-<p align="center" text-decoration = "none" color = "orange"><a href="https://moise-code.github.io/Portfolio-website/">Hello There My name is Byiringiro Moise</p>
+<p align="center"><a href="https://moise-code.github.io/Portfolio-website/" text-decoration = "none" color = "orange">Hello There My name is Byiringiro Moise</p>
 
 <br />
 
