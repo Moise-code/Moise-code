@@ -2,13 +2,13 @@
 
 <br />
 
-I'm current a student at microverse, an online program that uses pair programing to teach software development.
+I'm currently a student at microverse, an online program that uses pair programing to teach software development.
 
 **About me**
 
 - 💼 Student at microverse
 
-- ❤️ I love writing JavaScript, and building fun projects.
+- ❤️ I love writing JavaScript and building fun projects.
 
 - 💬 Ask me about anything [here](https://github.com/Moise-code/Moise-code/issues)
 
