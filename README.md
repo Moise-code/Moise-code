@@ -22,19 +22,6 @@ I'm currently a student at microverse, an online program that uses pair programi
 | <a href="https://github.com/Moise-code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Moise-code&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Moise-code's github stats" /></a> | <a href="https://github.com/Moise-code/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moise-code&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/Moise-code/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moise-code&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/Moise-code/Moise-code.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Moise-code&repo=Moise-code.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
 <a href="https://twitter.com/ByiringiroMois1">
   <img align="right" alt="Byiringiro Moise | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
