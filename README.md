@@ -45,4 +45,8 @@ const moise = {
 <a href="https://twitter.com/ByiringiroMois1">
   <img align="right" alt="Byiringiro Moise | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
+<p>Let's connect here:</p>
+<p> 
+  <a href="https://twitter.com/ByiringiroMois1" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/inmoise-byiringiro-8a8ba4142/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
